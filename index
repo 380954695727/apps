@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="style.css">
+	<title>Document</title>
+</head>
+<body>
+
+
+	<section>
+<div class="header_wrapper"> 
+
+	
+ 	<div class="header">
+ 		<h1 class="apps">
+ 			<a href="#" class="apps_link">Apps</a>
+ 			
+ 			
+
+ 		</h1><b>como</b>
+ 	
+ 	</div>
+</div>	
+</section>
+	
+
+	<section class="main__wrapper">
+
+		<div class="sidebar_left_wrapper">
+			<div class="main_box">
+				<div class="app_img"><img class="watsapp" src="http://img-sv1.apktrend.com/images/apps/WhatsApp-Messenger.png" alt="watsapp">
+				</div>
+				<h1 class="entry_title">
+					WhatsApp Messenger - Review and Download
+				</h1>
+			</div>
+		</div>
+
+
+		<div class="sidebar_right_wrapper">
+			
+		</div>
+
+	</section>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
